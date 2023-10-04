@@ -1,0 +1,30 @@
+#footer{
+	background: linear-gradient(rgb(95, 88, 88), gray);
+}
+#footer .footer{
+	min-height: 200px;
+	flex-direction: column;
+padding-top: 50px;
+padding-bottom: 10px;
+
+}
+.brand h1{
+font-size: 3rem;
+text-transform: uppercase;
+color: white;
+}
+.brand h1 span{
+	color: crimson;
+}
+.footer h2{
+	color: white;
+	font-weight: bold;
+	font-size: 1.2rem;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.social-icon{
+	display: flex;
+	justify-content: space-between;
+}
+/* 02:02:13 */
